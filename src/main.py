@@ -187,7 +187,7 @@ def create_app():
     
     # Use environment variable for database URI
     database_path = os.path.join(os.path.dirname(__file__), 'database', 'app.db')
-    app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL')
+    app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', f"sqlite:///{database_path}")
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
     db.init_app(app)
