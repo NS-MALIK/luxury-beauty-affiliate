@@ -177,7 +177,7 @@ from src.seed_data.seed_blog_posts import seed_blog_posts
 migrate = Migrate()
 
 def create_app():
-    app = Flask(__name__, static_folder=os.path.join(os.path.dirname(os.path.dirname(__file__)), 'dist'))
+    app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'))
     
     # Use environment variables for sensitive information
     app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'your_default_secret_key')
