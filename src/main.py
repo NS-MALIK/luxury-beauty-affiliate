@@ -153,7 +153,7 @@ import os
 import sys
 
 # This is for path setup. Don't change this.
-sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
+# sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 from flask import Flask, send_from_directory
 from flask_cors import CORS
@@ -177,7 +177,9 @@ from src.seed_data.seed_blog_posts import seed_blog_posts
 migrate = Migrate()
 
 def create_app():
-    app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'))
+    # app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'))
+    # The static folder is now the 'static' directory inside the 'src' folder
+    app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'), static_url_path='/')
     
     # Use environment variables for sensitive information
     app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'your_default_secret_key')
