@@ -179,8 +179,8 @@ migrate = Migrate()
 def create_app():
    
     # The static folder is now the 'static' directory inside the 'src' folder
-    app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'), static_url_path='/')
-    
+    # app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'), static_url_path='/')
+    app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'))
     # Use environment variables for sensitive information
     app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'your_default_secret_key')
     
