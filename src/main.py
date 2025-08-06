@@ -216,6 +216,8 @@ def create_app():
                 return send_from_directory(app.static_folder, 'index.html')
             else:
                 return "index.html not found in static folder.", 404
+            
+    
 
     return app
 

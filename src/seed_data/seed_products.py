@@ -13,7 +13,7 @@ def seed_products():
         'description': 'The legendary moisturizing cream that transforms skin with the healing power of the sea. This luxurious formula helps renew skin for a firmer, more radiant appearance.',
         'price': 190.00,
         'amazon_url': 'https://amzn.to/3IQBRLA',
-        'image_url': 'https://m.media-amazon.com/images/I/61dk40nyxqL._SL1000_.jpg', # Changed to /static/images/
+        'image_url': '/static/images/la-mer-creme-product.jpg', # Changed to /static/images/
         'rating': 4.5,
         'review_count': 1250,
         'ingredients': 'Sea Kelp Bioferment, Eucalyptus, Wheat Germ, Sunflower, Alfalfa',
@@ -29,7 +29,7 @@ def seed_products():
         'description': 'The iconic essence that transforms skin with over 90% PITERA™, a bio-ingredient derived from yeast fermentation that resembles your skin\'s Natural Moisturizing Factors.',
         'price': 99.00,
         'amazon_url': 'https://amzn.to/4lf2qHN',
-        'image_url': 'https://cdn11.bigcommerce.com/s-x3hur0xe4r/images/stencil/500w/products/151/2550/FTE_1_2__11815__27159.1753696929.jpg?c=1',
+        'image_url': '/static/images/SK-II-product.jpg',
         'rating': 4.7,
         'review_count': 890,
         'ingredients': 'PITERA™, Butylene Glycol, Pentylene Glycol, Water',
@@ -45,7 +45,7 @@ def seed_products():
         'description': 'The universally flattering nude-pink lipstick inspired by the pillow talk shade. This creamy, buildable formula delivers full coverage with a satin finish.',
         'price': 20.00,
         'amazon_url': 'https://amzn.to/4fpFnJ6',
-        'image_url': 'https://thevault.pk/cdn/shop/files/CHARLOTTE_TILBURY_-_Matte_Revolution_Lipstick_-_Pillow_Talk_360x.png?v=1728135866',
+        'image_url': '/static/images/pillow-talk-lipstick-product.jpg',
         'rating': 4.6,
         'review_count': 2100,
         'ingredients': 'Castor Seed Oil, Candelilla Wax, Carnauba Wax, Vitamin E',
@@ -61,7 +61,7 @@ def seed_products():
         'description': 'A luxurious and sensual fragrance of rich, dark accords and an alluring potion of black orchids and spice. This iconic scent is both modern and timeless.',
         'price': 75.50,
         'amazon_url': 'https://amzn.to/4mtvAnE',
-        'image_url': 'https://khayest.pk/cdn/shop/files/WhatsAppImage2024-03-07at17.35.53.webp?v=1728333734&width=416.jpg', # Changed to /static/images/
+        'image_url': '/static/images/tom-ford-fragrance-product.jpg', # Changed to /static/images/
         'rating': 4.4,
         'review_count': 1580,
         'ingredients': 'Black Orchid, Spice, Dark Chocolate, Incense, Patchouli, Vanilla',
@@ -189,7 +189,7 @@ def seed_products():
         "description": "An award-winning, multi-purpose concealer that brightens, corrects, and perfects with full, natural-looking coverage. It's enriched with hydrating, multi-action skincare benefits.",
         "price": 25.67,
         "amazon_url": "https://amzn.to/40MWcHG",
-        "image_url": "https://m.media-amazon.com/images/I/61oxs+8JJ7L._SL1500_.jpg",
+        "image_url": "/static/images/Nars-product-image.jpg",
         "rating": 4.7,
         "review_count": 15000,
         "ingredients": "Magnolia Bark Extract, Grape Seed Extract, Vitamin E",
