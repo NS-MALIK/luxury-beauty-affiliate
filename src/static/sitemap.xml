@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://luxurybeautyhub.com/</loc>
+    <loc>https://naina009911.pythonanywhere.com/</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -10,21 +10,21 @@
   
   <!-- Category Pages -->
   <url>
-    <loc>https://luxurybeautyhub.com/category/skincare</loc>
+    <loc>https://naina009911.pythonanywhere.com/category/skincare</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/category/makeup</loc>
+    <loc>https://naina009911.pythonanywhere.com/category/makeup</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/category/fragrance</loc>
+    <loc>https://naina009911.pythonanywhere.com/category/fragrance</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -32,42 +32,42 @@
   
   <!-- Product Pages -->
   <url>
-    <loc>https://luxurybeautyhub.com/products/1</loc>
+    <loc>https://naina009911.pythonanywhere.com/products/1</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/products/2</loc>
+    <loc>https://naina009911.pythonanywhere.com/products/2</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/products/3</loc>
+    <loc>https://naina009911.pythonanywhere.com/products/3</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/products/4</loc>
+    <loc>https://naina009911.pythonanywhere.com/products/4</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/products/5</loc>
+    <loc>https://naina009911.pythonanywhere.com/products/5</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/products/6</loc>
+    <loc>https://naina009911.pythonanywhere.com/products/6</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -75,57 +75,76 @@
   
   <!-- Blog Pages -->
   <url>
-    <loc>https://luxurybeautyhub.com/blog</loc>
+    <loc>https://naina009911.pythonanywhere.com/blog</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/blog/ultimate-guide-luxury-skincare-routine</loc>
+    <loc>https://naina009911.pythonanywhere.com/blog/ultimate-guide-luxury-skincare-routine</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/blog/tom-ford-black-orchid-review</loc>
+    <loc>https://naina009911.pythonanywhere.com/blog/tom-ford-black-orchid-review</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/blog/2025-luxury-beauty-trends</loc>
+    <loc>https://naina009911.pythonanywhere.com/blog/2025-luxury-beauty-trends</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+   <url>
+    <loc>https://naina009911.pythonanywhere.com/blog/2025-luxury-beauty-trends</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://naina009911.pythonanywhere.com/blog/2025-luxury-beauty-trends</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://naina009911.pythonanywhere.com/blog/2025-luxury-beauty-trends</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
   
   <!-- Static Pages -->
   <url>
-    <loc>https://luxurybeautyhub.com/about</loc>
+    <loc>https://naina009911.pythonanywhere.com/about</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/contact</loc>
+    <loc>https://naina009911.pythonanywhere.com/contact</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/privacy</loc>
+    <loc>https://naina009911.pythonanywhere.com/privacy</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://luxurybeautyhub.com/terms</loc>
+    <loc>https://naina009911.pythonanywhere.com/terms</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
